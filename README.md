@@ -1,7 +1,7 @@
 <!-- Banner ou GIF animado opcional (adicione uma imagem sua ou tema empoderado com tech!) -->
 <!-- ![Banner](https://your-image-url.com/banner.gif) -->
 
-<h1 align="center">✨ Olá, eu sou a Marina da Cruz Bento Bulhosa ✨</h1>
+<h1 align="center">✨ Olá, eu sou Marina da Cruz Bento Bulhosa ✨</h1>
 
 <p align="center">
 👩‍💻 Estudante de Ciência da Computação • 💜 Apaixonada por tecnologia, moda e impacto social • 🎤 Criativa e comunicativa • 🐾 Defensora dos animais
